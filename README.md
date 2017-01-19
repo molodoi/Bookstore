@@ -13,7 +13,7 @@ Content
 
 Install
 ========================
-- Git clone this project to app/design/frontend/Ticme/ : git clone https://github.com/molodoi/Ticme-Bookstore.git
+- Git clone this project to app/design/frontend/Ticme/ : git clone https://github.com/molodoi/Bookstore.git
 - Return to root project folder, delete : rm -fR var/*
 - Always in root project folder, delete : rm -fR pub/static/*
 - Clean Cache : php bin/magento cache:clean
